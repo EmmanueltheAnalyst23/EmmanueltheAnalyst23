@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-<!--
-**EmmanueltheAnalyst23/EmmanueltheAnalyst23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Data Analyst based in Poland, passionate about transforming data into actionable insights. I specialize in SQL, Excel, Python, and Power BI — and love building dashboards and predictive models that help teams make smarter decisions.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- **Languages:** SQL, Python
+- **Data Tools:** Power BI, Tableau, Excel, scikit-learn
+- **Skills:** Data Cleaning, Visualization, Statistical Analysis, Dashboard Creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+Explore my repositories to see practical examples of how I analyze, visualize, and present data to solve real-world problems.
+
+

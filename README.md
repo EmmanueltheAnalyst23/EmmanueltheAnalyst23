@@ -1,34 +1,23 @@
 I’m a Junior Data Analyst passionate about transforming raw data into clear, actionable insights. I specialize in SQL, Excel, Power BI, and Python, with a strong focus on data cleaning, dashboard creation, and predictive analytics.
-
 I enjoy solving real-world problems through data — whether it’s building performance dashboards, analyzing e-commerce sales, or modeling economic trends.
 
-Tools & Technologies
+Tools & Technologies:
 Languages
-
 SQL
-
 Python
 
-Data Tools
-
+Data Tools:
 Excel
-
 Power BI
-
 Tableau
 
-Libraries & Techniques
-
+Libraries & Techniques:
 pandas, NumPy, scikit-learn
-
 matplotlib, seaborn
 
-Data Cleaning & Transformation
-
+Data Cleaning & Transformation:
 Statistical Analysis
-
 Predictive Modeling
-
 Dashboard Design
 
  Featured Projects:

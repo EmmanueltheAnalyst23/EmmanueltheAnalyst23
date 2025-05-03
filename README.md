@@ -3,22 +3,22 @@ I enjoy solving real-world problems through data — whether it’s building per
 
 Tools & Technologies
 Languages:
-SQL
-Python
+SQL,
+Python,
 
 Data Tools:
-Excel
-Power BI
-Tableau
+Excel,
+Power BI,
+Tableau,
 
 Libraries & Techniques:
 pandas, NumPy, scikit-learn
 matplotlib, seaborn
 
 Data Cleaning & Transformation:
-Statistical Analysis
-Predictive Modeling
-Dashboard Design
+Statistical Analysis,
+Predictive Modeling,
+Dashboard Design,
 
  Featured Projects:
 Excel-Business-Analytics-Projects

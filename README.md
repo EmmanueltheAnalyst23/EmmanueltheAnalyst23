@@ -22,12 +22,11 @@ An econometric study examining how fiscal deficits, unemployment, and inflation 
 
 
 Let’s Connect:
-
 I’m always open to new opportunities, collaborations, or just talking data! 
 
-Email: ejiohuoemmanuel7@gmail.com
-
-LinkedIn: linkedin.com/in/emmanuel-ejiohuo
-GitHub: github.com/EmmanueltheAnalyst23
+Author: Emmanuel Ejiohuo
+Role: Junior Data Analyst | Business Analytics Student
+🔗 LinkedIn Profile: https://www.linkedin.com/in/emmanuel-ejiohuo
+📧 Email: ejiohuoemmanuel7@gmail.com
 
 

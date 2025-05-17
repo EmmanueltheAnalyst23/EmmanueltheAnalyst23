@@ -1,45 +1,36 @@
-I’m a Junior Data Analyst passionate about transforming raw data into clear, actionable insights. I specialize in SQL, Excel, Power BI, and Python, with a strong focus on data cleaning, dashboard creation, and predictive analytics.
-I enjoy solving real-world problems through data — whether it’s building performance dashboards, analyzing e-commerce sales, or modeling economic trends.
+Hi, I’m Emmanuel — a Junior Data Analyst
+
+I’m passionate about turning raw data into meaningful, actionable insights. My work focuses on data cleaning, dashboard creation, and predictive analysis, using tools like SQL, Excel, Power BI, and Python.
+
+Whether it’s analyzing e-commerce performance, building dashboards, or modeling economic trends, I enjoy solving real-world problems through data.
+
+⸻
 
 Tools & Technologies
-Languages:
-SQL,
-Python,
+	•	Languages: SQL, Python
+	•	Data Tools: Excel, Power BI, Tableau
+	•	Libraries & Techniques: pandas, NumPy, scikit-learn, matplotlib, seaborn
+	•	Core Skills: Data Cleaning & Transformation, Statistical Analysis, Predictive Modeling, Dashboard Design
 
-Data Tools:
-Excel,
-Power BI,
-Tableau,
+⸻
 
-Libraries & Techniques:
-pandas, NumPy, scikit-learn
-matplotlib, seaborn
+Featured Projects
+	•	Excel Business Analytics Projects
+A collection of Excel-based projects from my Business Analytics coursework, featuring formulas like IF, VLOOKUP, PivotTables, and Conditional Formatting.
+	•	Excel_Analytics_With_Complete_Solving.xlsx
+A full e-commerce analytics case built in Excel and SQL — includes revenue, profit, margin calculations, and formula-based reporting.
+	•	FC Barcelona Database Project
+A university project built using SQL and Python, with a focus on database design, financial data analysis, and visualizations around FC Barcelona’s operations.
+	•	EU Macroeconometrics Project
+An econometric study examining how fiscal deficits, unemployment, and inflation impact GDP growth in five EU countries (2014–2024), using Excel and Gretl.
 
-Data Cleaning & Transformation:
-Statistical Analysis,
-Predictive Modeling,
-Dashboard Design,
+⸻
 
- Featured Projects:
-Excel-Business-Analytics-Projects
-A collection of Excel projects from my Business Analytics studies, showcasing key functions like IF, VLOOKUP, Pivot Tables, Conditional Formatting, and data summarization.
+Let’s Connect
 
-Excel_Analytics_With_Complete_Solving.xlsx:
-An end-to-end e-commerce analytics case solved in Excel and SQL — includes revenue, profit, margin calculations, and formula-based reporting.
-
-database-project-fc-barcelona:
-A university project built with SQL and Python, featuring database design, financial data analysis, and visualizations focused on FC Barcelona’s operations.
-
-EU_MacroEconometrics_Project:
-An econometric study analyzing the effects of fiscal deficits, unemployment, and inflation on GDP growth across five EU countries (2014–2024).
-
-Contact:
-Feel free to connect with me or reach out for collaboration or opportunities:
-
+I’m always open to new opportunities, collaborations, or just talking data!
 Email: ejiohuoemmanuel7@gmail.com
-
 LinkedIn: linkedin.com/in/emmanuel-ejiohuo
-
 GitHub: github.com/EmmanueltheAnalyst23
 
 

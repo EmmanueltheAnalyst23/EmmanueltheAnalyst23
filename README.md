@@ -25,6 +25,7 @@ Let’s Connect:
 
 I’m always open to new opportunities, collaborations, or just talking data!
 Email: ejiohuoemmanuel7@gmail.com
+
 LinkedIn: linkedin.com/in/emmanuel-ejiohuo
 GitHub: github.com/EmmanueltheAnalyst23
 

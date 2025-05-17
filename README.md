@@ -4,15 +4,11 @@ I’m passionate about turning raw data into meaningful, actionable insights. My
 
 Whether it’s analyzing e-commerce performance, building dashboards, or modeling economic trends, I enjoy solving real-world problems through data.
 
-⸻
-
 Tools & Technologies
 	•	Languages: SQL, Python
 	•	Data Tools: Excel, Power BI, Tableau
 	•	Libraries & Techniques: pandas, NumPy, scikit-learn, matplotlib, seaborn
 	•	Core Skills: Data Cleaning & Transformation, Statistical Analysis, Predictive Modeling, Dashboard Design
-
-⸻
 
 Featured Projects
 	•	Excel Business Analytics Projects
@@ -24,9 +20,8 @@ A university project built using SQL and Python, with a focus on database design
 	•	EU Macroeconometrics Project
 An econometric study examining how fiscal deficits, unemployment, and inflation impact GDP growth in five EU countries (2014–2024), using Excel and Gretl.
 
-⸻
 
-Let’s Connect
+Let’s Connect:
 
 I’m always open to new opportunities, collaborations, or just talking data!
 Email: ejiohuoemmanuel7@gmail.com
